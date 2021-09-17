@@ -1,0 +1,88 @@
+---
+title: '811'
+author: "Yena Kim"
+date: '2021 9 17 '
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Yena Kim
+Department address
+• yena.kim@wisc.edu
+• 15 University Houses, Apt.A, Madison, WI, 53705
+
+## Education
+
+Ph.D. in Political Science, 2021 –\\
+University of Wisconsin-Madison
+Madison, WI
+
+
+Master of Political Science, 2019 – Expected 2021\\
+Yonsei University
+Seoul, Korea
+
+
+Bachelor of Political Science, Russian Language and Literature, 2012 – 2017\\
+Yonsei University
+Seoul, Korea
+
+
+## Research experience
+
+Working Paper
+
+“The Politics of UNESCO’s International Assistance Program in Authoritarian Regimes”, with Hyowon Lee and Whasun Jho
+
+“The Dynamics of Trade Policy-Making in Authoritarian Regimes”, with Whasun Jho
+
+“Cultural Diplomacy in International Relations”(Korean), with Whasun Jho
+
+## Teaching experience
+Lecturer, Spring 2021
+Somyung Vision Classical Christian School
+Seoul, Korea
+
+
+Teaching Assistant(Graduate Courses)
+Yonsei University
+
+- International Political Economy, Professor Whasun Jho, Spring 2020 
+- Case Studies of International Political Economy in East Asia, Professor Whasun Jho, Fall 2019
+- Politics of Technology, Professor Whasun Jho, Spring 2019
+
+
+Teaching Assistant(Undergraduate Courses)
+Yonsei University 
+
+
+- International Political Economy in East Asia, Professor Whasun Jho, Fall 2019 
+- Social Network Politics, Professor Whasun Jho, Spring 2019 
+- Principles of Macroeconomics, Professor Taejin Kim,  Fall 2013
+
+
+## Awards and fellowships
+University Graduate Fellowship
+
+
+## Professional work experience
+The Korean WEST Exchange Program Intern, Mar 2018 – Sep 2018
+Girl Scouts of Central Texas
+Austin, TX
+ 
+Intern, Jun 2014 – Aug 2014\\
+State Hermitage Museum 
+Saint-Petersburg, Russia
+
+Administrative Intern, Mar 2012\\
+2012 Nuclear Security Summit Conference
+Seoul, Korea
+
+## Language and skills
+Language: Korean, English, Russian
